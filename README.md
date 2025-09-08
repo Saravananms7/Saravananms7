@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Saravanan, a Computer Science student passionate about building impactful software solutions. I love turning ideas into reality through Flutter, React, and AI/ML. I enjoy solving problems, experimenting with new tech, and working on projects that make life easier for others.<br><br>💻 Currently working on: College Marketplace App & Print Management System<br><br>🌱 Learning: Django, Supabase, and Windows app development with Flutter<br><br>🧠 Interests: Mobile & Web Development, AI/ML Projects, Automation<br><br>🎓 Certified in Cloud Computing & AI/ML<br><br>⚡ Fun fact: I turn coffee into code ☕
+Hi! I’m Saravanan, a Computer Science student passionate about building impactful software solutions. I love turning ideas into reality through Flutter, React, and AI/ML. I enjoy solving problems, experimenting with new tech, and working on projects that make life easier for others.<br><br>💻 Currently working on: FixIT platform & Print Management System<br><br>🌱 Learning: Django, Supabase, and Windows app development with Flutter<br><br>🧠 Interests: Mobile & Web Development, AI/ML Projects, Automation<br><br>🎓 Certified in Cloud Computing & AI/ML<br><br>⚡ Fun fact: I turn coffee into code ☕
 
 
 ## 🌐 Socials:
